@@ -1,5 +1,5 @@
 FROM jketterl/openwebrx:latest
-MAINTAINER af@0xaf.org
+MAINTAINER dl5gu@dl5gu.radio
 LABEL OpenWebRX + Digital codecs (mbelib), using codecserver-softmbe.
 
 
